@@ -1,1 +1,6 @@
-com\ecomerce\EcommerceAppplication.class
+com\ecommerce\controller\AuthController.class
+com\ecommerce\EcommerceApplication.class
+com\ecommerce\entity\User.class
+com\ecommerce\entity\User$Role.class
+com\ecommerce\config\SecurityConfig.class
+com\ecommerce\repository\UserRepository.class
